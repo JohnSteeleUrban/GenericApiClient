@@ -1,0 +1,5 @@
+C:\Users\JohnU\source\repos\ApiClient\ApiClient\bin\Debug\netstandard2.0\ApiClient.deps.json
+C:\Users\JohnU\source\repos\ApiClient\ApiClient\bin\Debug\netstandard2.0\ApiClient.dll
+C:\Users\JohnU\source\repos\ApiClient\ApiClient\obj\Debug\netstandard2.0\ApiClient.csprojAssemblyReference.cache
+C:\Users\JohnU\source\repos\ApiClient\ApiClient\obj\Debug\netstandard2.0\ApiClient.AssemblyInfoInputs.cache
+C:\Users\JohnU\source\repos\ApiClient\ApiClient\obj\Debug\netstandard2.0\ApiClient.AssemblyInfo.cs
